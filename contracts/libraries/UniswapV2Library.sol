@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '@uniswapv2_core/contracts/interfaces/IUniswapV2Pair.sol';
+import '@v2_core/contracts/interfaces/IUniswapV2Pair.sol';
 
 import "./SafeMath.sol";
 
